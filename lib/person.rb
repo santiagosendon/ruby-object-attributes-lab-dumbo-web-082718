@@ -1,4 +1,5 @@
 class Person
+  def initialize
  @name = "Beyonce"
  @job = "Singer"
 end
