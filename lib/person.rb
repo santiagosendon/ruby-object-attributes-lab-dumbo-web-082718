@@ -15,4 +15,7 @@ end
    @job
  end
  
- def jo
+ def job=(job)
+   @job = job
+ end
+ end
